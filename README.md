@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Bashith-08
-- 👀 I’m interested in web developer
+- 👀 I’m interested in WEB development and APP development :)
 - 🌱 I’m currently learning flutter
 
 
