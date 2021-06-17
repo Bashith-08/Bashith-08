@@ -12,5 +12,6 @@
   
 [<img src="https://img.shields.io/badge/-facebook-blue?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/bashith.deva)
 [<img src="https://img.shields.io/badge/-instagram-%23ff3399?&style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/bashi.08/) 
+[<img src="https://img.shields.io/badge/-LinkdIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/bashith-deva-b58868214/)
 
 </p>
