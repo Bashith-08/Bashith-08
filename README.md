@@ -2,7 +2,7 @@
 
 
 - 👋 Hello, I’m @Bashith-08
-- 👀 I’m interested in WEB development and APP development :)
+- 👀 I’m interested in WEB development and ML :)
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me - baashithdeva@gmail.com
 
